@@ -1,0 +1,3 @@
+#!/bin/sh
+#
+nohup node /usr/local/avis-preferred/be/http-dispatcher.js > /usr/local/avis-preferred/logs/http-dispatcher.log 2>&1 &
